@@ -29,10 +29,10 @@ in Hong Kong or Bangkok, we can see that many small coffee shops in the city, di
 3. merchant can distribute the discount, gift via coffee card.
 4. merchant can view the customer feedback of their coffee.
 
-## node
+## Node
 * pallet - coffees
 
-## function (current)
+## Function (current)
 1. user can buy a new coffee card
 2. user can transfer a coffee card
 3. user can breed a coffee card (then the card can become more powerful such as gain special discounts or special function)
@@ -40,7 +40,7 @@ in Hong Kong or Bangkok, we can see that many small coffee shops in the city, di
 5. user can bid a coffee card
 6. user can burn a coffee card
 
-## frontend
+## Frontend
 1. mercahnt page
 * create new coffee card (NFT)
 
@@ -49,12 +49,15 @@ in Hong Kong or Bangkok, we can see that many small coffee shops in the city, di
 3. customer page
 
 
-## coffee card desgin
+## Coffee card desgin
 * The disgin can be done by the coffee shop owner 
 * officia version of the coffee card will be designed by ourselves
 * At the beginning of the project, we will design the coffee card components can let the system to generate uniqe cards for customers. The card will have one coffee avatar, and the avatar will have top section, body section, bottom section, ear section and other section.
 
-## testing
+## Progress Update
+
+
+## Testing
 * build the node
 ![alt text](https://github.com/MartinYeung5/20241022_MYcoffee/blob/main/image/2.png?raw=true)
 
