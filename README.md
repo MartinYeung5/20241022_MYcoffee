@@ -52,6 +52,7 @@ in Hong Kong or Bangkok, we can see that many small coffee shops in the city, di
 ## coffee card desgin
 * The disgin can be done by the coffee shop owner 
 * officia version of the coffee card will be designed by ourselves
+* At the beginning of the project, we will design the coffee card components can let the system to generate uniqe cards for customers.
 
 ## testing
 * build the node
