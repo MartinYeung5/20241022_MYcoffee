@@ -7,7 +7,7 @@ export const linkList = [
     {
         id:2,
         href:"#menu",
-        title:"Our menu"
+        title:"Coffee Card"
     },
     {
         id:3,
