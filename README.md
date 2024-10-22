@@ -12,8 +12,8 @@ in Hong Kong or Bangkok, we can see that many small coffee shops in the city, di
 
 ## Idea
 * Target User (Merchant): Coffee Shop Owner who want to receive the crypto transaction or interact with customer in Web3 
-* Target User (Customer): general user who want to pay the transaction with crypto or interact with coffee shop in Web3
-* The project will setup one platform for merchant to sell their coffee card (NFT) and do the airdrop to the customer. Also it can let customer to buy the coffee card and share their feedback record of coffee in Web3. Acutally, it is a coffee community to gather coffee lover and coffee shop. 
+* Target User (customer): general user who want to pay the transaction with crypto or interact with coffee shop in Web3
+* The project will setup one platform for merchant to sell their coffee card (NFT) and do the airdrop to the customer. Also it can let customer to buy the coffee card and share their feedback record of coffee in Web3. Actually, it is a coffee community to gather coffee lover and coffee shop. 
 * For customer, in this project, customer can utilize one coffee card to enjoy different benefits from various coffee shops. For example, the coffee card can have extra discounts on over 100 coffee shops. The most important thing is that customer will not worry about the coffee shop's bankrupt, they pay the fee for coffee card, recharge the token for coffee card and the coffee card only belongs to customer. It is easy to indicated that all benefits and token will only in the coffee card, not the coffee shop.
 1. customer can buy coffee cards in the platform and use the coffee card to purchase coffee in specific coffee shops. 
 2. customer don't need to register the coffee shop memebership again and again, they only buy the coffee card and will get the membership immediately. 
@@ -22,7 +22,7 @@ in Hong Kong or Bangkok, we can see that many small coffee shops in the city, di
 5. customers can bid the coffee card.
 6. customers can share their feedback of the coffee.
 
-* For Merchant, as the coffee shop owern, they can develop own coffee card (NFT) and sell them on the platform or other marketplaces. The coffee shop can distribute the discount, gift via coffee card. it is really easy to reach their customers and don't need to develop own App or platform. Moreover, they may gain more customers and more exposure in the community. 
+* For Merchant, as the coffee shop owner, they can develop own coffee card (NFT) and sell them on the platform or other marketplaces. The coffee shop can distribute the discount, gift via coffee card. it is really easy to reach their customers and don't need to develop own App or platform. Moreover, they may gain more customers and more exposure in the community.
 
 ## node
 * pallet - coffees
