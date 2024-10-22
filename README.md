@@ -14,6 +14,7 @@ in Hong Kong or Bangkok, we can see that many small coffee shops in the city, di
 3. customers can get the updated information of coffee shop in single platform.
 4. customers can sell or transfer theri coffee card.
 5. customers can bid the coffee card.
+6. customers can share their feedback of the coffee.
 
 ## Idea
 * Target User (Merchant): Coffee Shop Owner who want to recieve the crypto transaction or interact with customer in Web3 
