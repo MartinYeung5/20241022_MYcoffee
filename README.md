@@ -18,11 +18,15 @@ in Hong Kong or Bangkok, we can see that many small coffee shops in the city, di
 1. customer can buy coffee cards in the platform and use the coffee card to purchase coffee in specific coffee shops. 
 2. customer don't need to register the coffee shop memebership again and again, they only buy the coffee card and will get the membership immediately. 
 3. customers can get the updated information of coffee shop in single platform.
-4. customers can sell or transfer theri coffee card.
+4. customers can sell or transfer their coffee card.
 5. customers can bid the coffee card.
 6. customers can share their feedback of the coffee.
 
 * For Merchant, as the coffee shop owner, they can develop own coffee card (NFT) and sell them on the platform or other marketplaces. The coffee shop can distribute the discount, gift via coffee card. it is really easy to reach their customers and don't need to develop own App or platform. Moreover, they may gain more customers and more exposure in the community.
+1. merchant can design their coffee card (NFT).
+2. merchant can sell their coffee card.
+3. merchant can distribute the discount, gift via coffee card.
+4. merchant can view the customer feedback of their coffee.
 
 ## node
 * pallet - coffees
