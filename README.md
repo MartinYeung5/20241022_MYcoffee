@@ -16,7 +16,7 @@ in Hong Kong or Bangkok, we can see that many small coffee shops in the city, di
 * The project will setup one platform for merchant to sell their coffee card (NFT) and do the airdrop to the customer. Also it can let customer to buy the coffee card and share their feedback record of coffee in Web3. Actually, it is a coffee community to gather coffee lover and coffee shop. 
 * For customer, in this project, customer can utilize one coffee card to enjoy different benefits from various coffee shops. For example, the coffee card can have extra discounts on over 100 coffee shops. The most important thing is that customer will not worry about the coffee shop's bankrupt, they pay the fee for coffee card, recharge the token for coffee card and the coffee card only belongs to customer. It is easy to indicated that all benefits and token will only in the coffee card, not the coffee shop.
 1. customer can buy coffee cards in the platform and use the coffee card to purchase coffee in specific coffee shops. 
-2. customer don't need to register the coffee shop memebership again and again, they only buy the coffee card and will get the membership immediately. 
+2. customer don't need to register the coffee shop membership again and again, they only buy the coffee card and will get the membership immediately. 
 3. customers can get the updated information of coffee shop in single platform.
 4. customers can sell or transfer their coffee card.
 5. customers can bid the coffee card.
