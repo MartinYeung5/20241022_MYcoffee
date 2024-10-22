@@ -1,16 +1,21 @@
-# Project: My coffee
+# Project Name : My coffee
 
-# Logo
-![alt text](https://github.com/MartinYeung5/20241022_MYcoffee/blob/main/image/logo.png?raw=true)
+# Project github:
+https://github.com/MartinYeung5/20241022_MYcoffee
+
+# Project Creation Date: 2024/10/20
 
 # Purpose
 let user can do coffee transaction with their wallet and share their feedback record of coffee
 
-# Introduction
-## Background
+# Project Background
 in Hong Kong or Bangkok, we can see that many small coffee shops in the city, different coffee shops may have their special coffees and own features. Generally, it is not easy to do promotion and attract people to go their coffee shop again and again. Moreover, it is difficult to keep the relationship between customers in low budget condition. How can solve this pain points? Do you consider to use Web3 to get close with customers? indeed, it may achieve the purpose to utilize Web3 to provide better service and promotion, and customers can protect their privacy and get more benefit via Web3.
 
-## Idea
+# Problem to be Solved
+* The project will solve the problem on handling many membership issue, privacy issues, promotion issue from small coffee shop, relationship issues between coffee shop and customer.
+* utilize Web3 to provide better service and promotion, and customers can protect their privacy and get more benefit via Web3.
+
+# Project Overview
 * Target User (Merchant): Coffee Shop Owner who want to receive the crypto transaction or interact with customer in Web3 
 * Target User (customer): general user who want to pay the transaction with crypto or interact with coffee shop in Web3
 * The project will setup one platform for merchant to sell their coffee card (NFT) and do the airdrop to the customer. Also it can let customer to buy the coffee card and share their feedback record of coffee in Web3. Actually, it is a coffee community to gather coffee lover and coffee shop. 
@@ -29,36 +34,37 @@ in Hong Kong or Bangkok, we can see that many small coffee shops in the city, di
 3. merchant can distribute the discount, gift via coffee card.
 4. merchant can view the customer feedback of their coffee.
 
-## Node
-* pallet - coffees
-
-## Function (current)
-1. user can buy a new coffee card
-2. user can transfer a coffee card
-3. user can breed a coffee card (then the card can become more powerful such as gain special discounts or special function)
-4. user can sell a coffee card
-5. user can bid a coffee card
-6. user can burn a coffee card
-
-## Frontend
-1. mercahnt page
-* create new coffee card (NFT)
-
-2. admin page
-
-3. customer page
-* main page
-![alt text](https://github.com/MartinYeung5/20241022_MYcoffee/blob/main/image/screencap_1.png?raw=true)
-
-
-## Coffee card desgin
 * The disgin can be done by the coffee shop owner 
 * officia version of the coffee card will be designed by ourselves
 * At the beginning of the project, we will design the coffee card components can let the system to generate uniqe cards for customers. The card will have one coffee avatar, and the avatar will have top section, body section, bottom section, ear section and other section.
 
-## Progress Update
-#### 2024.10.22
-* project frontend
+# Technical Architecture
+### frontend
+* nextjs
+
+### node
+* substrate: pallet - coffees
+
+
+# Project Logo
+![alt text](https://github.com/MartinYeung5/20241022_MYcoffee/blob/main/image/logo.png?raw=true)
+
+# Team Information
+* Martin Yeung: fullstack, contract, desgin
+
+# Selected Bounty
+* blockchain for good
+
+# Planned Code Deliverables during the Hackathon
+* update node (pallet-coffees)
+* update frontend (merchant page, mint coffee card, view coffee card, customer profile)
+
+* current screencap
+1. main page
+![alt text](https://github.com/MartinYeung5/20241022_MYcoffee/blob/main/image/screencap_1.png?raw=true)
+
+# Project Completed During the Hackathon
+* will completed
 
 ## Testing
 * build the node
