@@ -33,6 +33,13 @@ in Hong Kong or Bangkok, we can see that many small coffee shops in the city, di
 6. user can burn a coffee card
 
 ## frontend
+1. mercahnt page
+* create new coffee card (NFT)
+
+2. admin page
+
+3. customer page
+
 
 ## coffee card desgin
 * The disgin can be done by the coffee shop owner 
