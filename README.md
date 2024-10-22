@@ -1,7 +1,7 @@
 # Project: My coffee
 
 # Logo
-![alt text](https://github.com/MartinYeung5/20241022_MYcoffee/blob/main/image/MY_coffee_Web3.png?raw=true)
+![alt text](https://github.com/MartinYeung5/20241022_MYcoffee/blob/main/image/logo.png?raw=true)
 
 # Purpose
 let user can do coffee transaction with their wallet and share their feedback record of coffee
@@ -48,7 +48,7 @@ in Hong Kong or Bangkok, we can see that many small coffee shops in the city, di
 
 3. customer page
 * main page
-![alt text](https://github.com/MartinYeung5/20241022_MYcoffee/blob/main/image/MY_coffee_Web3.png?raw=true)
+![alt text](https://github.com/MartinYeung5/20241022_MYcoffee/blob/main/image/screencap_1.png?raw=true)
 
 
 ## Coffee card desgin
