@@ -13,6 +13,9 @@ let user can do coffee transaction with their wallet and share their feedback re
 
 ## node
 * pallet - coffees
-* 
+
+## function
+1. user can buy a new coffee card
+2. user can transfer a coffee card
 
 ## frontend
