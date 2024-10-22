@@ -1,5 +1,8 @@
 # Project: My coffee
 
+# Logo
+
+
 # Purpose
 let user can do coffee transaction with their wallet and share their feedback record of coffee
 
