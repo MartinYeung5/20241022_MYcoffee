@@ -39,7 +39,7 @@ const Home = () => {
             <div className="relative h-[70vh] z-[10] flex justify-center items-center">
                 <div className="flex flex-col justify-center items-center text-center  text-white">
                     <h1 className="text-5xl">Get Your Coffe Card</h1>
-                    <p className="text-2xl mt-2 mb-10 font-md tracking-wider">One platform select your favour coffee</p>
+                    <p className="text-2xl mt-2 mb-10 font-md tracking-wider">One platform select your favourable coffee</p>
                     <Link href="#menu" scroll={false} className="bg-gray-800 px-[2rem] py-[8px] rounded-xl scroll-smoth">
                         <p className="font-semibold tracking-wider">MENU</p>
                     </Link>
