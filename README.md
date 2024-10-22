@@ -34,3 +34,6 @@ let user can do coffee transaction with their wallet and share their feedback re
 ## testing
 * build the node
 ![alt text](https://github.com/MartinYeung5/20241022_MYcoffee/blob/main/image/2.png?raw=true)
+
+* start the node
+![alt text](https://github.com/MartinYeung5/20241022_MYcoffee/blob/main/image/1.png?raw=true)
