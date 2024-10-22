@@ -30,3 +30,7 @@ let user can do coffee transaction with their wallet and share their feedback re
 ## coffee card desgin
 * The disgin can be done by the coffee shop owner 
 * officia version of the coffee card will be designed by ourselves
+
+## testing
+* build the node
+![alt text](https://github.com/MartinYeung5/20241022_MYcoffee/blob/main/image/2.png?raw=true)
