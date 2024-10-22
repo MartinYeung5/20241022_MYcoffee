@@ -12,7 +12,8 @@ in Hong Kong or Bangkok, we can see that many small coffee shops in the city, di
 1. customer can buy coffee cards in the platform and use the coffee card to purchase coffee in specific coffee shops. 
 2. customer don't need to register the coffee shop memebership again and again, they only buy the coffee card and will get the membership immediately. 
 3. customers can get the updated information of coffee shop in single platform.
-4. 
+4. customers can sell or transfer theri coffee card.
+5. customers can bid the coffee card.
 
 ## Idea
 * Target User (Merchant): Coffee Shop Owner who want to recieve the crypto transaction or interact with customer in Web3 
