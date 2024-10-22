@@ -28,3 +28,4 @@ let user can do coffee transaction with their wallet and share their feedback re
 ## frontend
 
 ## coffee card desgin
+* The disgin can be done by the coffee shop owner 
