@@ -12,6 +12,7 @@ let user can do coffee transaction with their wallet and share their feedback re
 * For Merchant, as the coffee shop owern, they can develop own coffee card (NFT) and sell them on the platform or other marketplaces. The coffee shop can distribute the discount, gift via coffee card. it is really easy to reach their customers and don't need to develop own App or platform. Moreover, they may gain more customers and more exposure in the community. 
 
 ## node
-
+* pallet - coffees
+* 
 
 ## frontend
