@@ -3,7 +3,6 @@
 # Logo
 ![alt text](https://github.com/MartinYeung5/20241022_MYcoffee/blob/main/image/MY_coffee_Web3.png?raw=true)
 
-
 # Purpose
 let user can do coffee transaction with their wallet and share their feedback record of coffee
 
