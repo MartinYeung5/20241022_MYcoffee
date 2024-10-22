@@ -21,6 +21,7 @@ in Hong Kong or Bangkok, we can see that many small coffee shops in the city, di
 4. customers can sell or transfer their coffee card.
 5. customers can bid the coffee card.
 6. customers can share their feedback of the coffee.
+7. customers can breed the coffee and make the high level coffee card (NFT) in order to provide more fun on the project.
 
 * For Merchant, as the coffee shop owner, they can develop own coffee card (NFT) and sell them on the platform or other marketplaces. The coffee shop can distribute the discount, gift via coffee card. it is really easy to reach their customers and don't need to develop own App or platform. Moreover, they may gain more customers and more exposure in the community.
 1. merchant can design their coffee card (NFT).
