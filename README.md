@@ -17,5 +17,7 @@ let user can do coffee transaction with their wallet and share their feedback re
 ## function
 1. user can buy a new coffee card
 2. user can transfer a coffee card
+3. user can breed a coffee card (then the card can become more powerful such as gain special discounts or special function)
+4. 
 
 ## frontend
