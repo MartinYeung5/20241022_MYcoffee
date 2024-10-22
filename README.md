@@ -55,7 +55,8 @@ in Hong Kong or Bangkok, we can see that many small coffee shops in the city, di
 * At the beginning of the project, we will design the coffee card components can let the system to generate uniqe cards for customers. The card will have one coffee avatar, and the avatar will have top section, body section, bottom section, ear section and other section.
 
 ## Progress Update
-
+#### 2024.10.22
+* project frontend
 
 ## Testing
 * build the node
