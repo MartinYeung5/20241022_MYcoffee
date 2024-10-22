@@ -24,7 +24,7 @@ in Hong Kong or Bangkok, we can see that many small coffee shops in the city, di
 ## node
 * pallet - coffees
 
-## function
+## function (current)
 1. user can buy a new coffee card
 2. user can transfer a coffee card
 3. user can breed a coffee card (then the card can become more powerful such as gain special discounts or special function)
