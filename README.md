@@ -8,7 +8,7 @@ let user can do coffee transaction with their wallet and share their feedback re
 
 # Introduction
 ## Background
-in Hong Kong or Bangkok, we can see that many small coffee shops in the city, different coffee shops may have their special coffees and own features. Generally, it is not easy to do promotion and attract people to go their coffee shop again and again. Moreover, it is difficult to keep the relationshop between customers in low buget condition. How can slove this pain points? Do you consider to use Web3 to get close with customers? indeed, it may achieve the purpose to utilize web3 to provide better service and promotion, and customers can protect their privacy and get more benefit via web3. 
+in Hong Kong or Bangkok, we can see that many small coffee shops in the city, different coffee shops may have their special coffees and own features. Generally, it is not easy to do promotion and attract people to go their coffee shop again and again. Moreover, it is difficult to keep the relationship between customers in low budget condition. How can solve this pain points? Do you consider to use Web3 to get close with customers? indeed, it may achieve the purpose to utilize Web3 to provide better service and promotion, and customers can protect their privacy and get more benefit via Web3.
 
 ## Idea
 * Target User (Merchant): Coffee Shop Owner who want to recieve the crypto transaction or interact with customer in Web3 
