@@ -23,3 +23,5 @@ let user can do coffee transaction with their wallet and share their feedback re
 6. user can burn a coffee card
 
 ## frontend
+
+## coffee card desgin
