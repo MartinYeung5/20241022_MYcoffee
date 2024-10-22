@@ -47,6 +47,8 @@ in Hong Kong or Bangkok, we can see that many small coffee shops in the city, di
 2. admin page
 
 3. customer page
+* main page
+![alt text](https://github.com/MartinYeung5/20241022_MYcoffee/blob/main/image/MY_coffee_Web3.png?raw=true)
 
 
 ## Coffee card desgin
