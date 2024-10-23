@@ -62,6 +62,7 @@ in Hong Kong or Bangkok, we can see that many small coffee shops in the city, di
 * current screencap
 1. main page
 ![alt text](https://github.com/MartinYeung5/20241022_MYcoffee/blob/main/image/screencap_1.png?raw=true)
+![alt text](https://github.com/MartinYeung5/20241022_MYcoffee/blob/main/image/screencap_2.png?raw=true)
 
 # Project Completed During the Hackathon
 * will completed
