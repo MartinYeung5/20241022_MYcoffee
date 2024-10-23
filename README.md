@@ -5,8 +5,9 @@ https://github.com/MartinYeung5/20241022_MYcoffee
 
 # Project Creation Date: 2024/10/20
 
-# Purpose
-let user can do coffee transaction with their wallet and share their feedback record of coffee
+# Project Introduction
+MY coffee is the project of coffee card community, which can integrate the membership and interaction between coffee shop owenrs.
+it can let customer buy a coffee card (NFT) to get a membership of different coffee shops without repeating same registration. Also, they can recharge the card and do transaction with the card. In addtion, the coffee shop owner can interact with customer in Web3 by collecting feedback, sending discount and gift, and chating with fun.
 
 # Project Background
 in Hong Kong or Bangkok, we can see that many small coffee shops in the city, different coffee shops may have their special coffees and own features. Generally, it is not easy to do promotion and attract people to go their coffee shop again and again. Moreover, it is difficult to keep the relationship between customers in low budget condition. How can solve this pain points? Do you consider to use Web3 to get close with customers? indeed, it may achieve the purpose to utilize Web3 to provide better service and promotion, and customers can protect their privacy and get more benefit via Web3.
